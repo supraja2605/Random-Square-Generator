@@ -1,0 +1,2 @@
+rootProject.name='Random Square Generator'
+include ':app'

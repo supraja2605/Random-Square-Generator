@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Square Generator</string>
+    <string name="generate">Generate</string>
+    <string name="hello_user">Hello User!</string>
+</resources>
